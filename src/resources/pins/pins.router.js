@@ -11,3 +11,4 @@ router
   .delete(pinsController.remove);
 
 module.exports = router;
+

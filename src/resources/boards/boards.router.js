@@ -11,3 +11,4 @@ router
   .delete(boardsController.remove);
 
 module.exports = router;
+
